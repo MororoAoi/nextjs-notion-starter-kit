@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'BlueberryBites',
-  domain: 'https://strawberryaoi.notion.site/BlueberryBites-5b27ed4bfd9e4ed395cd32ffefe79b4d?pvs=4',
+  domain: 'https://www.notion.so/strawberryaoi/BlueberryBites-5b27ed4bfd9e4ed395cd32ffefe79b4d?pvs=4',
   author: 'Aoi',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Welcome',
 
   // social usernames (optional)
   Redbook: '4118774050',
